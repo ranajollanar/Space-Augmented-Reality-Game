@@ -1,0 +1,196 @@
+{
+    "m_SelectedDeviceId": "91b0f43a",
+    "m_SelectedProcess": {
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
+        "exited": false
+    },
+    "m_SelectedPriority": 4,
+    "m_KnownProcessesForSerialization": [
+        {
+            "deviceId": "R58M41H04YD",
+            "name": "com.Talan.Planets",
+            "processId": 7712,
+            "exited": true
+        },
+        {
+            "deviceId": "R58M41H04YD",
+            "name": "com.sec.android.app.launcher",
+            "processId": 5120,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M41H04YD",
+            "name": "com.Talan.Planets",
+            "processId": 11728,
+            "exited": false
+        },
+        {
+            "deviceId": "R58N62HKYJB",
+            "name": "com.Talan.Planets",
+            "processId": 16311,
+            "exited": true
+        },
+        {
+            "deviceId": "R58N62HKYJB",
+            "name": "com.Talan.Planets",
+            "processId": 18270,
+            "exited": true
+        },
+        {
+            "deviceId": "R58N62HKYJB",
+            "name": "com.Talan.Planets",
+            "processId": 13977,
+            "exited": true
+        },
+        {
+            "deviceId": "R58N62HKYJB",
+            "name": "com.Talan.Planets",
+            "processId": 17136,
+            "exited": true
+        },
+        {
+            "deviceId": "R58N62HKYJB",
+            "name": "com.sec.android.app.launcher",
+            "processId": 4855,
+            "exited": false
+        },
+        {
+            "deviceId": "ef4976c7",
+            "name": "com.Talan.Planets",
+            "processId": 22034,
+            "exited": true
+        },
+        {
+            "deviceId": "ef4976c7",
+            "name": "com.Talan.Planets",
+            "processId": 24304,
+            "exited": true
+        },
+        {
+            "deviceId": "ef4976c7",
+            "name": "com.miui.home",
+            "processId": 2939,
+            "exited": false
+        },
+        {
+            "deviceId": "ef4976c7",
+            "name": "com.android.settings",
+            "processId": 16445,
+            "exited": false
+        },
+        {
+            "deviceId": "ef4976c7",
+            "name": "com.Talan.SpaceARventure",
+            "processId": 18989,
+            "exited": false
+        },
+        {
+            "deviceId": "ef4976c7",
+            "name": "com.Talan.SpaceARventure",
+            "processId": 21219,
+            "exited": false
+        },
+        {
+            "deviceId": "91b0f43a",
+            "name": "com.Talan.SpaceARventure",
+            "processId": 1111,
+            "exited": true
+        },
+        {
+            "deviceId": "91b0f43a",
+            "name": "com.Talan.SpaceARventure",
+            "processId": 5988,
+            "exited": true
+        },
+        {
+            "deviceId": "91b0f43a",
+            "name": "com.Talan.SpaceARventure",
+            "processId": 15013,
+            "exited": true
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_ExtraWindowState": {
+        "Type": 0,
+        "Height": 0.0
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "AutoCapture": true
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    },
+    "m_InputSettings": {
+        "ShiftModifier": false,
+        "SendText": "",
+        "PosixKillSignal": 0,
+        "TargetProcess": {
+            "deviceId": "",
+            "name": "",
+            "processId": 0,
+            "exited": false
+        }
+    },
+    "m_AutoScroll": 0
+}

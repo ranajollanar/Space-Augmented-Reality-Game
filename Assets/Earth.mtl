@@ -1,0 +1,11 @@
+newmtl Earth
+bump 2k_earth_normal_map.tif
+map_Kd 2k_earth_daymap.jpg
+Kd 1 1 1
+d 1
+
+newmtl Clouds
+map_Kd 2k_earth_clouds.jpg
+Kd 1 1 1
+d 0.5294118
+
